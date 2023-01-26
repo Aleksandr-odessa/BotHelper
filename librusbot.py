@@ -5,7 +5,7 @@ from message import librus_ads
 import logging
 import json
 
-TOKEN = dif()
+TOKEN = "token"
 data_list = []
 dict_secret = {}
 
